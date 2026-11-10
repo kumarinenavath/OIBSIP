@@ -31,7 +31,6 @@ Customer Personality Analysis dataset from Kaggle.
 
 ## Project Files
 - `OIBSIP_Task3_Customer_Segmentation.ipynb` – Project notebook.
-- `Screenshots/` – Project output graphs.
-
+- `customer_segment_count.png` – Customer segment count graph.
 ## Conclusion
 K-Means clustering helps businesses understand customer behaviour and identify different customer groups. This analysis can support better marketing strategies and customer targeting.
