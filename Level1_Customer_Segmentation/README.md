@@ -1,4 +1,3 @@
-# Customer Segmentation Analysis
 # Customer Segmentation Analysis Using K-Means
 
 ## Project Overview
